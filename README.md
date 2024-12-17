@@ -9,12 +9,13 @@
 <a href="https://www.linkedin.com/in/chinmay-sharma-b1804b1b5/">
 <img align="left" alt="Chinmay | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-</br>
+
+<br/>
 
 - 🔭 I’m currently an Undergraduate Researcher at IIITH.
 - 🌱 I’m currently learning Go and DSPy
 - 📝[Portfolio](https://ubermayinch.github.io/blog)
-
+- 📫 How to reach me **chinmay.sharma@research.iiit.ac.in**
 
 
 
