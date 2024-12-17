@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently an Undergraduate Researcher at IIITH.
 - 🌱 I’m currently learning Go and DSPy
-- 💻 Tech Interests: Machine Learning (especially NLP), Algorithmic Programming, Web and App Development.
+- 💻 Tech Interests: Machine Learning (especially Generative AI), Algorithmic Programming, Web and App Development.
 - 🧪 Research Interests: Network Science, Statistical Mechanics, Nonlinear Dynamics and Category Theoretical Applications to Biology, Physics, Neuroscience and AI.
 - 📚 I also love learning, discussing and [!writing](https://toomanycents.blogspot.com/) about philosophy, finance, rationality.
 - 📝[Portfolio](https://ubermayinch.github.io/blog)
