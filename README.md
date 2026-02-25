@@ -1,13 +1,13 @@
 ### Hi! I'm [Chinmay!](https://ubermayinch.github.io/blog/)
 <br/>
 
-- 🔭 I’m currently an Undergraduate Researcher at IIITH.
-- 🌱 I’m currently learning Go and DSPy
-- 💻 Tech Interests: Machine Learning (especially Generative AI), Algorithmic Programming, Web and App Development.
-- 🧪 Research Interests: Network Science, Statistical Mechanics, Nonlinear Dynamics and Category Theoretical Applications to Biology, Physics, Neuroscience and AI.
-- 📚 I also love learning, discussing and [writing](https://toomanycents.blogspot.com/) about philosophy, finance, rationality.
-- 📝[Portfolio](https://ubermayinch.github.io/blog)
-- 📫 How to reach me **chinmay.sharma@research.iiit.ac.in**
+I’m currently an Undergraduate Researcher at the Lab for Networks and Nonlinear Dynamics at CCNSB, IIITH. 
+I like studying Complex Adaptive Systems with interdisciplinary computational science.
+
+I also like [writing](https://toomanycents.blogspot.com/) and product development.
+
+Here's my [Portfolio](https://ubermayinch.github.io/blog)
+You can reach me at **chinmay.sharma@research.iiit.ac.in**
 
 
 
