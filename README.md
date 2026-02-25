@@ -1,4 +1,4 @@
-### Hi! I'm [Chinmay!](https://ubermayinch.github.io/portfolio/))
+### Hi! I'm [Chinmay!](https://ubermayinch.github.io/portfolio/)
 <br/>
 
 I’m currently an Undergraduate Researcher at the Lab for Networks and Nonlinear Dynamics at CCNSB, IIIT Hyderabad, India. 
